@@ -26,9 +26,11 @@ The developers of the [Dolphin emulator](https://dolphin-emu.org) for
 * The Aarch64 machine code emitter
 
 [BreadFish64](https://github.com/BreadFish64) for
-* Motion control support
 * OpenGL ES improvements
 * Faster memory access for Aarch64 (thanks to [MerryMage](https://github.com/MerryMage) for the original x86 implementation)
+* Motion control support
+
+{{< figure type="youtube" id="iiH2JtFADV8" title="I'm using tilt controls!" >}}
 
 [liushuyu](https://github.com/liushuyu) for
 * OpenGL ES bug fixes
@@ -49,16 +51,18 @@ The developers of the [Dolphin emulator](https://dolphin-emu.org) for
 [zhaowenlan](https://github.com/zhaowenlan1779) for
 * The keyboard applet implementation
 
-Many recent improvements to desktop Citra were also motivated by the Android release such as [Disk Shader Caching](https://github.com/citra-emu/citra/pull/5188), Proper [Texture Format Reinterpretation](https://github.com/citra-emu/citra/pull/5170), [Splitting Frame Presentation and Emulation into separate threads](https://github.com/citra-emu/citra/pull/4940) and more.
+Many recent improvements to desktop Citra were also motivated by the Android release such as [Disk Shader Caching](https://github.com/citra-emu/citra/pull/4923), Proper [Texture Format Reinterpretation](https://github.com/citra-emu/citra/pull/5170), [Splitting Frame Presentation and Emulation into separate threads](https://github.com/citra-emu/citra/pull/4940) and more.
 
 ## So what can you expect from the Android port of Citra?
 
-The app is still in beta. So while we've tried to squash the bugs we've come across, You may run into the occasional glitch. If you run into any major problems, please report them to us on our Discord server or forum, and we'll try to organise them.
+The app is still in beta. So while we've tried to squash the bugs we've come across, you may run into the occasional glitch. If you run into any major problems, please report them to us on our Discord server or forum, and we'll try to organize them.
 
-The app requires a minimum of 64 bit Android Oreo, and OpenGL ES 3.2 support. These are relatively high requirements; however, they allow us to ensure that every device which can run Citra will have a reasonably good experience. We recommend a device with a Snapdragon 835 or better. Experiencing may vary greatly depending on the quality of your devices GPU drivers.
+{{< figure type="youtube" id="Is1IviWcX-Q" title="Uh, where are you going Mario?" >}}
 
-You can grab the app now on the [Google Play Store](https://play.google.com/store/apps/details?id=org.citra.citra_emu). The app is free, but we'd appreciate it if you contributed to our ~~Cadburry Creme Egg~~ development and server upkeep funds by [becoming a Patron](https://www.patreon.com/citraemu) or unlocking dark mode for !!!insert price here!!!.
+The app requires a minimum of 64 bit Android Oreo, and OpenGL ES 3.2 support. These are relatively high requirements; however, they allow us to ensure that every device which can run Citra will have a reasonably good experience. We recommend a device with a Snapdragon 835 or better. Experiencing may vary greatly depending on the quality of your device's GPU drivers.
 
-\* The Citra Emulator Project is not responsible for any bodily harm or injury that may result from leaving your home, including - but not limited to - being hit by a runaway train, catching a highly contagious disease, sunburn, or getting mauled by a polar bear.
+You can grab the app now on the [Google Play Store](https://play.google.com/store/apps/details?id=org.citra.citra_emu). The app is free, but we would appreciate it if you contributed to our ~~Cadburry Creme Egg~~ development and server upkeep funds by [becoming a Patron](https://www.patreon.com/citraemu) or unlocking dark mode for !!!insert price here!!!.
+
+\* The Citra Emulator Project is not responsible for any bodily harm or injury that may result from leaving your home, including - but not limited to - sunburn, being hit by a runaway train, catching a highly contagious disease, or getting mauled by a polar bear.
 
 Please do not use Citra while walking, driving, or otherwise locomoting.
