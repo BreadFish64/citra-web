@@ -42,7 +42,7 @@ The developers of the [Dolphin emulator](https://dolphin-emu.org) for
 
 [Tobi](https://github.com/FearlessTobi) for
 * Porting changes to the Dolphin frontend since the original implementation
-* Porting realtime audio from [yuzu](https://yuzu-emu.org)
+* Porting real-time audio from [yuzu](https://yuzu-emu.org)
 
 [weihouya](https://github.com/weihuoya) for
 * Implementing AAC decoding for Android
@@ -55,11 +55,11 @@ Many recent improvements to desktop Citra were also motivated by the Android rel
 
 ## So what can you expect from the Android port of Citra?
 
-The app is still in beta. So while we've tried to squash the bugs we've come across, you may run into the occasional glitch. If you run into any major problems, please report them to us on our Discord server or forum, and we'll try to organize them.
+The app is still in beta. So, while we have tried to squash the bugs we've come across, you may run into the occasional glitch. If you run into any major problems, please report them to us on our Discord server or forum and we will try to organize them.
 
 {{< figure type="youtube" id="Is1IviWcX-Q" title="Uh, where are you going Mario?" >}}
 
-The app requires a minimum of 64 bit Android Oreo, and OpenGL ES 3.2 support. These are relatively high requirements; however, they allow us to ensure that every device which can run Citra will have a reasonably good experience. We recommend a device with a Snapdragon 835 or better. Experiencing may vary greatly depending on the quality of your device's GPU drivers.
+The app requires a minimum of 64-bit Android Oreo, and OpenGL ES 3.2 support. These are relatively high requirements; however, they allow us to ensure that every device which can run Citra will have a reasonably good experience. As for hardware, we recommend a device with a Snapdragon 835 or better. Experiencing may vary greatly depending on the quality of your device's GPU drivers.
 
 You can grab the app now on the [Google Play Store](https://play.google.com/store/apps/details?id=org.citra.citra_emu). The app is free, but we would appreciate it if you contributed to our ~~Cadburry Creme Egg~~ development and server upkeep funds by [becoming a Patron](https://www.patreon.com/citraemu) or unlocking dark mode for !!!insert price here!!!.
 
